@@ -1,0 +1,30 @@
+body{
+	
+	background-image: url("home1.jpg");
+	background-color:#000000;
+	color:white;
+	font-family="Pacifico";
+	background-attachment:fixed;
+  background-position:center center;
+  background-size:cover;
+} 
+
+
+ 
+
+
+
+.heading{
+	
+
+	
+ 	border-radius: 2px;
+ font-size: 100px;
+ 	padding: 20px;
+ 	text-align: center;
+	margin:auto;
+	margin-top:32px;
+	max-width:800px;
+	min-width:200px;
+	color:black;
+}

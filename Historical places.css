@@ -1,0 +1,48 @@
+body{
+    margin-right: 0%;
+    margin-left: 0%;
+    margin-top: 0%;
+    overflow: scroll;
+}
+.start{
+   height: 360px;
+  padding: 25px;
+  
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  background-color: #756815;
+background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+}
+h2{
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    color: #fff;
+    font-family: manrope bold,sans-serif;
+    margin: 0;
+    z-index: 1;
+    padding-left: 0;
+}
+.description{
+    padding: 20px;
+}
+.category {
+    margin-bottom: 0;
+    font-family: manrope bold,sans-serif;
+    font-size: 13px;
+    color: #f86960!important;
+    margin-right: 1rem;
+    text-transform: uppercase;
+    text-decoration:none;
+}
+h3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: manrope bold,sans-serif;
+}
+.info{
+    font-family: manrope bold,sans-serif;
+}

@@ -1,0 +1,45 @@
+body{
+    margin-right: 0%;
+    margin-left: 0%;
+    margin-top: 0%;
+    overflow: scroll;
+}
+.start{
+   height: 315px;
+  padding: 25px;
+  background: url(img11.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+
+}
+h2{
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    color: #fff;
+    font-family: manrope bold,sans-serif;
+    margin: 0;
+    z-index: 1;
+    padding-left: 0;
+}
+.description{
+    padding: 20px;
+}
+.category {
+    margin-bottom: 0;
+    font-family: manrope bold,sans-serif;
+    font-size: 13px;
+    color: #f86960!important;
+    margin-right: 1rem;
+    text-transform: uppercase;
+    text-decoration:none;
+}
+h3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: manrope bold,sans-serif;
+}
+.info{
+    font-family: manrope bold,sans-serif;
+}
